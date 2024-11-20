@@ -2,7 +2,7 @@
 <p><span><span style=""><span></span></span></span></p>
 <h5><strong style="font-size: 1.17188rem;"><u>Problem:</u></strong><br></h5>
 <div>In this exam,&nbsp; you are given an array of sticks with two end points where each end point can be any of the following 3 types: Inwards End, Outwards End and Straight End. An illustration for some possible stick instances are given in the figure below.</div>
-<div><img src="https://odtuclass2022f.metu.edu.tr/draftfile.php/36160/user/draft/968667308/stick_types.png" alt="stick types" width="750" height="264" class="atto_image_button_text-bottom"></div>
+<div><img src="https://github.com/user-attachments/assets/898c94c7-48ef-42d9-bab9-3894c5e8d4cd" alt="stick types" width="750" height="264" class="atto_image_button_text-bottom"></div>
 <div>Each stick has also "size" property. The size differs from 1 to 10.&nbsp; The size of each stick is specified in a different input array. Your task is to build the longest path by combining the sticks end to end. The rules of combination are given as follows:</div>
 <div>
     <ul>
