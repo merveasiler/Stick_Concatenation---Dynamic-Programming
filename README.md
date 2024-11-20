@@ -16,7 +16,7 @@
         <li>In order to obtain the same results with the answer key, please obey the rules given in "Implementation" part.</li>
     </ul>
 </div>
-<div><span style="font-size: 0.9375rem;"><img src="https://odtuclass2022f.metu.edu.tr/draftfile.php/36160/user/draft/968667308/stick_combination.png" alt="stick combination" width="948" height="100" class="atto_image_button_text-bottom"><br></span></div>
+<div><span style="font-size: 0.9375rem;"><img src="https://github.com/user-attachments/assets/b1f7a12d-a01b-48b4-9a9a-b908a6c16cce" alt="stick combination" width="948" height="100" class="atto_image_button_text-bottom"><br></span></div>
 <div><span style="font-size: 0.9375rem;">Please examine the examples below. Note that, each stick is defined with its left and right end types . "I" represents Inwards end, "O" represents Outwards end and "S" represents Straight end. For instance, ['I', 'S'] represents a stick starting with Inwards end and ending with Straight end.</span></div>
 <div><span style="font-size: 0.9375rem;"><br></span></div>
 <div><span style="font-size: 0.9375rem;"><strong>Example IO:<br></strong>
